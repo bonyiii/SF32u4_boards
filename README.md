@@ -15,6 +15,14 @@ places:
 * inside your Sketchbook directory
 * **Please note: This will only work under Arduino IDE versions 1.0.1 - 1.0.5**
 
+Example 
+=======
+
+mkdir /home/user/sketchbook/hardware/arduino
+
+extract SF32u4_boards-master.zip to the above directory, start arduino ide, and in tools -> board select your board
+
+
 For version 1.5.2, please see the [Arduino repository](https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification) for more information on adding these files.
 Keep in mind that version 1.5.2 is still currently a beta IDE. 
 
